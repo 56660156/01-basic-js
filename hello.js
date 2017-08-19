@@ -3,4 +3,7 @@ function hello(name) {
 
 }
 
-console.log(hello(`Korrakot`))
+function sayhi() {
+
+
+}
